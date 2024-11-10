@@ -1,2 +1,6 @@
-# fastapi-login
-Simple FastAPI Login System
+## Notas 
+
+- py download.py para actualizar los csv
+- $ py -m uvicorn main:app --reload
+
+
